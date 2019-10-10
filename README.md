@@ -1,3 +1,6 @@
 # citcodebase
 codebase of MS program
-NumpyPandas.py - File Numpy and Pandas Excercices 
+
+NumpyPandas.py - File Numpy and Pandas Excercices
+
+NaiveBayes.py - Multinomial NaiveBayees Excercise
